@@ -12,6 +12,8 @@
 	![ component structure](https://github.com/IMeinen/MEINEN_fe_ARTUR_exercise/blob/main/architecture_changes.png)
  - ### UI improvment:
 	All the styles in the necessary components were changed to create a nice and fluid UI. In addition, some new components were created to improve the feedback for the user, making the navigation more intuitive.
+ - ### Responsiveness:
+ 	Responsiveness has been added so that the application works on mobile devices and devices larger than a conventional screen.
 - ### Creation of new tests and improve the legacy tests:
 	The objective was to create all the necessary tests to guarantee the functioning of what was created in an application scale situation. Some old tests were restructured and others were created. All components have their own test and the 100% coverage metric has been reached.
 
